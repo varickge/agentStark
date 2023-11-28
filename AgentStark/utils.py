@@ -14,7 +14,7 @@ from instructor import OpenAISchema
 import textwrap
 import builtins
 
-client = Client(api_key='api_key')
+client = Client(api_key='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')
 
 def wprint(*args, width=70, **kwargs):
     """
